@@ -1,0 +1,15 @@
+{
+  "name": "deployend_first",
+  "version": "1.0.0",
+  "description": "This is my first deployedn ",
+  "main": "index.js",
+  "scripts": {
+    "start": " node index.js"
+  },
+  "author": "Vishal Kashyap",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1"
+  }
+}
